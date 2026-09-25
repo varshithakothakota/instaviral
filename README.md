@@ -1,5 +1,5 @@
-````markdown
-# ✨ InstaViral
+ 
+##✨ InstaViral
 
 ### Turning a viral Instagram reel into a real-time Computer Vision experiment. 👋
 
@@ -16,14 +16,7 @@ No touch.
 Just your hands. 👋
 
 ---
-
-## 🎥 Demo
-
-Watch it in action:
-
-**[▶️ Watch the Demo](./demo.mp4)**
-
----
+ 
 
 ## ✨ What is InstaViral?
 

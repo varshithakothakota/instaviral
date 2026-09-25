@@ -1,5 +1,5 @@
  
-##✨ InstaViral
+## ✨ InstaViral
 
 ### Turning a viral Instagram reel into a real-time Computer Vision experiment. 👋
 
